@@ -1,0 +1,331 @@
+2015-06-08 3:02:53 - PHP Notice:  Error: Could not load model /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/model/sale/order.php! in /Volumes/Macintosh_HD_2/mamp/local/opencms/system/engine/loader.php on line 24
+2015-06-08 3:02:56 - PHP Notice:  Error: Could not load model /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/model/sale/order.php! in /Volumes/Macintosh_HD_2/mamp/local/opencms/system/engine/loader.php on line 24
+2015-06-08 3:02:57 - PHP Notice:  Error: Could not load model /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/model/sale/order.php! in /Volumes/Macintosh_HD_2/mamp/local/opencms/system/engine/loader.php on line 24
+2015-06-08 3:02:57 - PHP Notice:  Error: Could not load model /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/model/sale/order.php! in /Volumes/Macintosh_HD_2/mamp/local/opencms/system/engine/loader.php on line 24
+2015-06-08 3:02:58 - PHP Notice:  Error: Could not load model /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/model/sale/order.php! in /Volumes/Macintosh_HD_2/mamp/local/opencms/system/engine/loader.php on line 24
+2015-06-08 3:02:58 - PHP Notice:  Error: Could not load model /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/model/sale/order.php! in /Volumes/Macintosh_HD_2/mamp/local/opencms/system/engine/loader.php on line 24
+2015-06-08 3:02:59 - PHP Notice:  Error: Could not load model /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/model/sale/order.php! in /Volumes/Macintosh_HD_2/mamp/local/opencms/system/engine/loader.php on line 24
+2015-06-08 3:03:01 - PHP Notice:  Error: Could not load model /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/model/sale/order.php! in /Volumes/Macintosh_HD_2/mamp/local/opencms/system/engine/loader.php on line 24
+2015-06-08 3:04:19 - PHP Notice:  Error: Could not load model /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/model/sale/order.php! in /Volumes/Macintosh_HD_2/mamp/local/opencms/system/engine/loader.php on line 24
+2015-06-08 3:04:46 - PHP Notice:  Error: Could not load model /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/model/sale/order.php! in /Volumes/Macintosh_HD_2/mamp/local/opencms/system/engine/loader.php on line 24
+2015-06-08 3:06:14 - PHP Notice:  Error: Could not load model /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/model/report/customer.php! in /Volumes/Macintosh_HD_2/mamp/local/opencms/system/engine/loader.php on line 24
+2015-06-08 3:06:15 - PHP Notice:  Error: Could not load model /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/model/report/customer.php! in /Volumes/Macintosh_HD_2/mamp/local/opencms/system/engine/loader.php on line 24
+2015-06-08 3:08:55 - PHP Notice:  Error: Could not load model /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/model/sale/customer.php! in /Volumes/Macintosh_HD_2/mamp/local/opencms/system/engine/loader.php on line 24
+2015-06-08 3:09:23 - PHP Notice:  Error: Could not load model /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/model/catalog/product.php! in /Volumes/Macintosh_HD_2/mamp/local/opencms/system/engine/loader.php on line 24
+2015-06-08 3:09:25 - PHP Notice:  Error: Could not load model /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/model/catalog/product.php! in /Volumes/Macintosh_HD_2/mamp/local/opencms/system/engine/loader.php on line 24
+2015-06-08 3:09:56 - PHP Notice:  Error: Could not load model /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/model/marketing/affiliate.php! in /Volumes/Macintosh_HD_2/mamp/local/opencms/system/engine/loader.php on line 24
+2015-06-08 3:10:06 - PHP Notice:  Undefined variable: alerts in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 45
+2015-06-08 3:10:06 - PHP Notice:  Undefined variable: order_status in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 48
+2015-06-08 3:10:06 - PHP Notice:  Undefined variable: order_status_total in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 48
+2015-06-08 3:10:06 - PHP Notice:  Undefined variable: complete_status in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 49
+2015-06-08 3:10:06 - PHP Notice:  Undefined variable: complete_status_total in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 49
+2015-06-08 3:10:06 - PHP Notice:  Undefined variable: return in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 50
+2015-06-08 3:10:06 - PHP Notice:  Undefined variable: return_total in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 50
+2015-06-08 3:10:06 - PHP Notice:  Undefined variable: product in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 57
+2015-06-08 3:10:06 - PHP Notice:  Undefined variable: product_total in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 57
+2015-06-08 3:10:06 - PHP Notice:  Undefined variable: affiliate_approval in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 61
+2015-06-08 3:10:06 - PHP Notice:  Undefined variable: affiliate_total in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 61
+2015-06-08 3:10:06 - PHP Notice:  Error: Could not load model /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/model/sale/order.php! in /Volumes/Macintosh_HD_2/mamp/local/opencms/system/engine/loader.php on line 24
+2015-06-08 3:12:05 - PHP Notice:  Undefined variable: alerts in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 45
+2015-06-08 3:12:05 - PHP Notice:  Undefined variable: order_status in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 48
+2015-06-08 3:12:05 - PHP Notice:  Undefined variable: order_status_total in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 48
+2015-06-08 3:12:05 - PHP Notice:  Undefined variable: complete_status in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 49
+2015-06-08 3:12:05 - PHP Notice:  Undefined variable: complete_status_total in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 49
+2015-06-08 3:12:05 - PHP Notice:  Undefined variable: return in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 50
+2015-06-08 3:12:05 - PHP Notice:  Undefined variable: return_total in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 50
+2015-06-08 3:12:05 - PHP Notice:  Undefined variable: product in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 57
+2015-06-08 3:12:05 - PHP Notice:  Undefined variable: product_total in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 57
+2015-06-08 3:12:05 - PHP Notice:  Undefined variable: affiliate_approval in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 61
+2015-06-08 3:12:05 - PHP Notice:  Undefined variable: affiliate_total in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 61
+2015-06-08 3:12:05 - PHP Notice:  Error: Could not load model /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/model/sale/order.php! in /Volumes/Macintosh_HD_2/mamp/local/opencms/system/engine/loader.php on line 24
+2015-06-08 3:12:07 - PHP Notice:  Undefined variable: alerts in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 45
+2015-06-08 3:12:07 - PHP Notice:  Undefined variable: order_status in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 48
+2015-06-08 3:12:07 - PHP Notice:  Undefined variable: order_status_total in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 48
+2015-06-08 3:12:07 - PHP Notice:  Undefined variable: complete_status in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 49
+2015-06-08 3:12:07 - PHP Notice:  Undefined variable: complete_status_total in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 49
+2015-06-08 3:12:07 - PHP Notice:  Undefined variable: return in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 50
+2015-06-08 3:12:07 - PHP Notice:  Undefined variable: return_total in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 50
+2015-06-08 3:12:07 - PHP Notice:  Undefined variable: product in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 57
+2015-06-08 3:12:07 - PHP Notice:  Undefined variable: product_total in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 57
+2015-06-08 3:12:07 - PHP Notice:  Undefined variable: affiliate_approval in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 61
+2015-06-08 3:12:07 - PHP Notice:  Undefined variable: affiliate_total in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 61
+2015-06-08 3:12:07 - PHP Notice:  Error: Could not load model /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/model/sale/order.php! in /Volumes/Macintosh_HD_2/mamp/local/opencms/system/engine/loader.php on line 24
+2015-06-08 3:12:07 - PHP Notice:  Undefined variable: alerts in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 45
+2015-06-08 3:12:07 - PHP Notice:  Undefined variable: order_status in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 48
+2015-06-08 3:12:07 - PHP Notice:  Undefined variable: order_status_total in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 48
+2015-06-08 3:12:07 - PHP Notice:  Undefined variable: complete_status in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 49
+2015-06-08 3:12:07 - PHP Notice:  Undefined variable: complete_status_total in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 49
+2015-06-08 3:12:07 - PHP Notice:  Undefined variable: return in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 50
+2015-06-08 3:12:07 - PHP Notice:  Undefined variable: return_total in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 50
+2015-06-08 3:12:07 - PHP Notice:  Undefined variable: product in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 57
+2015-06-08 3:12:07 - PHP Notice:  Undefined variable: product_total in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 57
+2015-06-08 3:12:07 - PHP Notice:  Undefined variable: affiliate_approval in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 61
+2015-06-08 3:12:07 - PHP Notice:  Undefined variable: affiliate_total in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 61
+2015-06-08 3:12:07 - PHP Notice:  Error: Could not load model /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/model/sale/order.php! in /Volumes/Macintosh_HD_2/mamp/local/opencms/system/engine/loader.php on line 24
+2015-06-08 3:12:46 - PHP Notice:  Undefined variable: alerts in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 45
+2015-06-08 3:12:46 - PHP Notice:  Undefined variable: order_status in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 48
+2015-06-08 3:12:46 - PHP Notice:  Undefined variable: order_status_total in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 48
+2015-06-08 3:12:46 - PHP Notice:  Undefined variable: complete_status in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 49
+2015-06-08 3:12:46 - PHP Notice:  Undefined variable: complete_status_total in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 49
+2015-06-08 3:12:46 - PHP Notice:  Undefined variable: return in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 50
+2015-06-08 3:12:46 - PHP Notice:  Undefined variable: return_total in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 50
+2015-06-08 3:12:46 - PHP Notice:  Undefined variable: product in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 57
+2015-06-08 3:12:46 - PHP Notice:  Undefined variable: product_total in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 57
+2015-06-08 3:12:46 - PHP Notice:  Undefined variable: affiliate_approval in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 61
+2015-06-08 3:12:46 - PHP Notice:  Undefined variable: affiliate_total in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 61
+2015-06-08 3:12:46 - PHP Notice:  Error: Could not load model /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/model/sale/order.php! in /Volumes/Macintosh_HD_2/mamp/local/opencms/system/engine/loader.php on line 24
+2015-06-08 3:12:48 - PHP Notice:  Undefined variable: alerts in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 45
+2015-06-08 3:12:48 - PHP Notice:  Undefined variable: order_status in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 48
+2015-06-08 3:12:48 - PHP Notice:  Undefined variable: order_status_total in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 48
+2015-06-08 3:12:48 - PHP Notice:  Undefined variable: complete_status in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 49
+2015-06-08 3:12:48 - PHP Notice:  Undefined variable: complete_status_total in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 49
+2015-06-08 3:12:48 - PHP Notice:  Undefined variable: return in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 50
+2015-06-08 3:12:48 - PHP Notice:  Undefined variable: return_total in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 50
+2015-06-08 3:12:48 - PHP Notice:  Undefined variable: product in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 57
+2015-06-08 3:12:48 - PHP Notice:  Undefined variable: product_total in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 57
+2015-06-08 3:12:48 - PHP Notice:  Undefined variable: affiliate_approval in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 61
+2015-06-08 3:12:48 - PHP Notice:  Undefined variable: affiliate_total in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 61
+2015-06-08 3:12:48 - PHP Notice:  Error: Could not load model /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/model/sale/order.php! in /Volumes/Macintosh_HD_2/mamp/local/opencms/system/engine/loader.php on line 24
+2015-06-08 3:12:48 - PHP Notice:  Undefined variable: alerts in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 45
+2015-06-08 3:12:48 - PHP Notice:  Undefined variable: order_status in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 48
+2015-06-08 3:12:48 - PHP Notice:  Undefined variable: order_status_total in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 48
+2015-06-08 3:12:48 - PHP Notice:  Undefined variable: complete_status in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 49
+2015-06-08 3:12:48 - PHP Notice:  Undefined variable: complete_status_total in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 49
+2015-06-08 3:12:48 - PHP Notice:  Undefined variable: return in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 50
+2015-06-08 3:12:48 - PHP Notice:  Undefined variable: return_total in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 50
+2015-06-08 3:12:48 - PHP Notice:  Undefined variable: product in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 57
+2015-06-08 3:12:48 - PHP Notice:  Undefined variable: product_total in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 57
+2015-06-08 3:12:48 - PHP Notice:  Undefined variable: affiliate_approval in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 61
+2015-06-08 3:12:48 - PHP Notice:  Undefined variable: affiliate_total in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 61
+2015-06-08 3:12:48 - PHP Notice:  Error: Could not load model /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/model/sale/order.php! in /Volumes/Macintosh_HD_2/mamp/local/opencms/system/engine/loader.php on line 24
+2015-06-08 3:12:49 - PHP Notice:  Undefined variable: alerts in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 45
+2015-06-08 3:12:49 - PHP Notice:  Undefined variable: order_status in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 48
+2015-06-08 3:12:49 - PHP Notice:  Undefined variable: order_status_total in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 48
+2015-06-08 3:12:49 - PHP Notice:  Undefined variable: complete_status in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 49
+2015-06-08 3:12:49 - PHP Notice:  Undefined variable: complete_status_total in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 49
+2015-06-08 3:12:49 - PHP Notice:  Undefined variable: return in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 50
+2015-06-08 3:12:49 - PHP Notice:  Undefined variable: return_total in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 50
+2015-06-08 3:12:49 - PHP Notice:  Undefined variable: product in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 57
+2015-06-08 3:12:49 - PHP Notice:  Undefined variable: product_total in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 57
+2015-06-08 3:12:49 - PHP Notice:  Undefined variable: affiliate_approval in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 61
+2015-06-08 3:12:49 - PHP Notice:  Undefined variable: affiliate_total in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 61
+2015-06-08 3:12:49 - PHP Notice:  Error: Could not load model /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/model/sale/order.php! in /Volumes/Macintosh_HD_2/mamp/local/opencms/system/engine/loader.php on line 24
+2015-06-08 3:14:41 - PHP Notice:  Undefined variable: alerts in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 45
+2015-06-08 3:14:41 - PHP Notice:  Undefined variable: order_status in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 48
+2015-06-08 3:14:41 - PHP Notice:  Undefined variable: order_status_total in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 48
+2015-06-08 3:14:41 - PHP Notice:  Undefined variable: complete_status in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 49
+2015-06-08 3:14:41 - PHP Notice:  Undefined variable: complete_status_total in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 49
+2015-06-08 3:14:41 - PHP Notice:  Undefined variable: return in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 50
+2015-06-08 3:14:41 - PHP Notice:  Undefined variable: return_total in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 50
+2015-06-08 3:14:41 - PHP Notice:  Undefined variable: product in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 57
+2015-06-08 3:14:41 - PHP Notice:  Undefined variable: product_total in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 57
+2015-06-08 3:14:41 - PHP Notice:  Undefined variable: affiliate_approval in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 61
+2015-06-08 3:14:41 - PHP Notice:  Undefined variable: affiliate_total in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 61
+2015-06-08 3:14:41 - PHP Notice:  Error: Could not load model /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/model/sale/order.php! in /Volumes/Macintosh_HD_2/mamp/local/opencms/system/engine/loader.php on line 24
+2015-06-08 3:16:22 - PHP Notice:  Undefined variable: alerts in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 45
+2015-06-08 3:16:22 - PHP Notice:  Undefined variable: order_status in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 48
+2015-06-08 3:16:22 - PHP Notice:  Undefined variable: order_status_total in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 48
+2015-06-08 3:16:22 - PHP Notice:  Undefined variable: complete_status in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 49
+2015-06-08 3:16:22 - PHP Notice:  Undefined variable: complete_status_total in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 49
+2015-06-08 3:16:22 - PHP Notice:  Undefined variable: return in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 50
+2015-06-08 3:16:22 - PHP Notice:  Undefined variable: return_total in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 50
+2015-06-08 3:16:22 - PHP Notice:  Undefined variable: product in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 57
+2015-06-08 3:16:22 - PHP Notice:  Undefined variable: product_total in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 57
+2015-06-08 3:16:22 - PHP Notice:  Undefined variable: affiliate_approval in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 61
+2015-06-08 3:16:22 - PHP Notice:  Undefined variable: affiliate_total in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 61
+2015-06-08 3:16:22 - PHP Notice:  Undefined variable: stats in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/column_left.tpl on line 1
+2015-06-08 3:16:22 - PHP Notice:  Undefined variable: order in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/dashboard.tpl on line 20
+2015-06-08 3:16:22 - PHP Notice:  Undefined variable: sale in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/dashboard.tpl on line 21
+2015-06-08 3:16:22 - PHP Notice:  Undefined variable: online in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/dashboard.tpl on line 23
+2015-06-08 3:16:22 - PHP Notice:  Undefined variable: map in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/dashboard.tpl on line 26
+2015-06-08 3:16:22 - PHP Notice:  Undefined variable: chart in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/dashboard.tpl on line 27
+2015-06-08 3:16:22 - PHP Notice:  Undefined variable: activity in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/dashboard.tpl on line 30
+2015-06-08 3:16:22 - PHP Notice:  Undefined variable: recent in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/dashboard.tpl on line 31
+2015-06-08 3:21:16 - PHP Unknown:  Object of class Registry could not be converted to string in /Volumes/Macintosh_HD_2/mamp/local/opencms/system/engine/controller.php on line 7
+2015-06-08 3:21:16 - PHP Unknown:  Object of class Registry could not be converted to string in /Volumes/Macintosh_HD_2/mamp/local/opencms/system/engine/controller.php on line 7
+2015-06-08 3:21:16 - PHP Unknown:  Object of class Registry could not be converted to string in /Volumes/Macintosh_HD_2/mamp/local/opencms/system/engine/controller.php on line 7
+2015-06-08 3:21:16 - PHP Unknown:  Object of class Registry could not be converted to string in /Volumes/Macintosh_HD_2/mamp/local/opencms/system/engine/controller.php on line 7
+2015-06-08 3:21:16 - PHP Unknown:  Object of class Registry could not be converted to string in /Volumes/Macintosh_HD_2/mamp/local/opencms/system/engine/controller.php on line 7
+2015-06-08 3:21:32 - PHP Unknown:  Object of class Registry could not be converted to string in /Volumes/Macintosh_HD_2/mamp/local/opencms/system/engine/controller.php on line 7
+2015-06-08 3:21:32 - PHP Unknown:  Object of class Registry could not be converted to string in /Volumes/Macintosh_HD_2/mamp/local/opencms/system/engine/controller.php on line 7
+2015-06-08 3:21:32 - PHP Unknown:  Object of class Registry could not be converted to string in /Volumes/Macintosh_HD_2/mamp/local/opencms/system/engine/controller.php on line 7
+2015-06-08 3:21:32 - PHP Unknown:  Object of class Registry could not be converted to string in /Volumes/Macintosh_HD_2/mamp/local/opencms/system/engine/controller.php on line 7
+2015-06-08 3:21:32 - PHP Unknown:  Object of class Registry could not be converted to string in /Volumes/Macintosh_HD_2/mamp/local/opencms/system/engine/controller.php on line 7
+2015-06-08 3:23:13 - PHP Notice:  Undefined variable: alerts in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 45
+2015-06-08 3:23:13 - PHP Notice:  Undefined variable: order_status in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 48
+2015-06-08 3:23:13 - PHP Notice:  Undefined variable: order_status_total in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 48
+2015-06-08 3:23:13 - PHP Notice:  Undefined variable: complete_status in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 49
+2015-06-08 3:23:13 - PHP Notice:  Undefined variable: complete_status_total in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 49
+2015-06-08 3:23:13 - PHP Notice:  Undefined variable: return in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 50
+2015-06-08 3:23:13 - PHP Notice:  Undefined variable: return_total in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 50
+2015-06-08 3:23:13 - PHP Notice:  Undefined variable: product in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 57
+2015-06-08 3:23:13 - PHP Notice:  Undefined variable: product_total in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 57
+2015-06-08 3:23:13 - PHP Notice:  Undefined variable: affiliate_approval in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 61
+2015-06-08 3:23:13 - PHP Notice:  Undefined variable: affiliate_total in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 61
+2015-06-08 3:23:13 - PHP Notice:  Undefined variable: stats in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/column_left.tpl on line 1
+2015-06-08 3:23:13 - PHP Notice:  Error: Could not load model /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/model/sale/order.php! in /Volumes/Macintosh_HD_2/mamp/local/opencms/system/engine/loader.php on line 24
+2015-06-08 3:23:27 - PHP Notice:  Undefined variable: alerts in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 45
+2015-06-08 3:23:27 - PHP Notice:  Undefined variable: order_status in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 48
+2015-06-08 3:23:27 - PHP Notice:  Undefined variable: order_status_total in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 48
+2015-06-08 3:23:27 - PHP Notice:  Undefined variable: complete_status in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 49
+2015-06-08 3:23:27 - PHP Notice:  Undefined variable: complete_status_total in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 49
+2015-06-08 3:23:27 - PHP Notice:  Undefined variable: return in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 50
+2015-06-08 3:23:27 - PHP Notice:  Undefined variable: return_total in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 50
+2015-06-08 3:23:27 - PHP Notice:  Undefined variable: product in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 57
+2015-06-08 3:23:27 - PHP Notice:  Undefined variable: product_total in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 57
+2015-06-08 3:23:27 - PHP Notice:  Undefined variable: affiliate_approval in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 61
+2015-06-08 3:23:27 - PHP Notice:  Undefined variable: affiliate_total in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 61
+2015-06-08 3:23:27 - PHP Notice:  Undefined variable: stats in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/column_left.tpl on line 1
+2015-06-08 3:23:27 - PHP Notice:  Error: Could not load model /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/model/sale/order.php! in /Volumes/Macintosh_HD_2/mamp/local/opencms/system/engine/loader.php on line 24
+2015-06-08 3:23:28 - PHP Notice:  Undefined variable: alerts in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 45
+2015-06-08 3:23:28 - PHP Notice:  Undefined variable: order_status in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 48
+2015-06-08 3:23:28 - PHP Notice:  Undefined variable: order_status_total in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 48
+2015-06-08 3:23:28 - PHP Notice:  Undefined variable: complete_status in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 49
+2015-06-08 3:23:28 - PHP Notice:  Undefined variable: complete_status_total in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 49
+2015-06-08 3:23:28 - PHP Notice:  Undefined variable: return in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 50
+2015-06-08 3:23:28 - PHP Notice:  Undefined variable: return_total in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 50
+2015-06-08 3:23:28 - PHP Notice:  Undefined variable: product in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 57
+2015-06-08 3:23:28 - PHP Notice:  Undefined variable: product_total in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 57
+2015-06-08 3:23:28 - PHP Notice:  Undefined variable: affiliate_approval in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 61
+2015-06-08 3:23:28 - PHP Notice:  Undefined variable: affiliate_total in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 61
+2015-06-08 3:23:28 - PHP Notice:  Undefined variable: stats in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/column_left.tpl on line 1
+2015-06-08 3:23:28 - PHP Notice:  Error: Could not load model /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/model/sale/order.php! in /Volumes/Macintosh_HD_2/mamp/local/opencms/system/engine/loader.php on line 24
+2015-06-08 3:23:36 - PHP Notice:  Undefined variable: alerts in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 45
+2015-06-08 3:23:36 - PHP Notice:  Undefined variable: order_status in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 48
+2015-06-08 3:23:36 - PHP Notice:  Undefined variable: order_status_total in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 48
+2015-06-08 3:23:36 - PHP Notice:  Undefined variable: complete_status in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 49
+2015-06-08 3:23:36 - PHP Notice:  Undefined variable: complete_status_total in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 49
+2015-06-08 3:23:36 - PHP Notice:  Undefined variable: return in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 50
+2015-06-08 3:23:36 - PHP Notice:  Undefined variable: return_total in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 50
+2015-06-08 3:23:36 - PHP Notice:  Undefined variable: product in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 57
+2015-06-08 3:23:36 - PHP Notice:  Undefined variable: product_total in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 57
+2015-06-08 3:23:36 - PHP Notice:  Undefined variable: affiliate_approval in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 61
+2015-06-08 3:23:36 - PHP Notice:  Undefined variable: affiliate_total in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 61
+2015-06-08 3:23:36 - PHP Notice:  Undefined variable: stats in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/column_left.tpl on line 1
+2015-06-08 3:23:36 - PHP Notice:  Error: Could not load model /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/model/report/activity.php! in /Volumes/Macintosh_HD_2/mamp/local/opencms/system/engine/loader.php on line 24
+2015-06-08 3:24:06 - PHP Notice:  Undefined variable: alerts in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 45
+2015-06-08 3:24:06 - PHP Notice:  Undefined variable: order_status in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 48
+2015-06-08 3:24:06 - PHP Notice:  Undefined variable: order_status_total in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 48
+2015-06-08 3:24:06 - PHP Notice:  Undefined variable: complete_status in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 49
+2015-06-08 3:24:06 - PHP Notice:  Undefined variable: complete_status_total in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 49
+2015-06-08 3:24:06 - PHP Notice:  Undefined variable: return in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 50
+2015-06-08 3:24:06 - PHP Notice:  Undefined variable: return_total in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 50
+2015-06-08 3:24:06 - PHP Notice:  Undefined variable: product in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 57
+2015-06-08 3:24:06 - PHP Notice:  Undefined variable: product_total in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 57
+2015-06-08 3:24:06 - PHP Notice:  Undefined variable: affiliate_approval in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 61
+2015-06-08 3:24:06 - PHP Notice:  Undefined variable: affiliate_total in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 61
+2015-06-08 3:24:06 - PHP Notice:  Undefined variable: stats in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/column_left.tpl on line 1
+2015-06-08 3:24:06 - PHP Notice:  Undefined variable: order in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/dashboard.tpl on line 20
+2015-06-08 3:24:06 - PHP Notice:  Undefined variable: sale in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/dashboard.tpl on line 21
+2015-06-08 3:24:06 - PHP Notice:  Undefined variable: online in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/dashboard.tpl on line 23
+2015-06-08 3:24:06 - PHP Notice:  Undefined variable: map in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/dashboard.tpl on line 26
+2015-06-08 3:24:06 - PHP Notice:  Undefined variable: chart in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/dashboard.tpl on line 27
+2015-06-08 3:24:06 - PHP Notice:  Undefined variable: activity in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/dashboard.tpl on line 30
+2015-06-08 3:24:06 - PHP Notice:  Undefined variable: recent in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/dashboard.tpl on line 31
+2015-06-08 3:24:20 - PHP Notice:  Undefined variable: alerts in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 45
+2015-06-08 3:24:20 - PHP Notice:  Undefined variable: order_status in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 48
+2015-06-08 3:24:20 - PHP Notice:  Undefined variable: order_status_total in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 48
+2015-06-08 3:24:20 - PHP Notice:  Undefined variable: complete_status in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 49
+2015-06-08 3:24:20 - PHP Notice:  Undefined variable: complete_status_total in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 49
+2015-06-08 3:24:20 - PHP Notice:  Undefined variable: return in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 50
+2015-06-08 3:24:20 - PHP Notice:  Undefined variable: return_total in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 50
+2015-06-08 3:24:20 - PHP Notice:  Undefined variable: product in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 57
+2015-06-08 3:24:20 - PHP Notice:  Undefined variable: product_total in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 57
+2015-06-08 3:24:20 - PHP Notice:  Undefined variable: affiliate_approval in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 61
+2015-06-08 3:24:20 - PHP Notice:  Undefined variable: affiliate_total in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 61
+2015-06-08 3:24:20 - PHP Notice:  Undefined variable: stats in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/column_left.tpl on line 1
+2015-06-08 3:24:20 - PHP Notice:  Undefined variable: order in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/dashboard.tpl on line 20
+2015-06-08 3:24:20 - PHP Notice:  Undefined variable: sale in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/dashboard.tpl on line 21
+2015-06-08 3:24:20 - PHP Notice:  Undefined variable: online in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/dashboard.tpl on line 23
+2015-06-08 3:24:20 - PHP Notice:  Undefined variable: map in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/dashboard.tpl on line 26
+2015-06-08 3:24:20 - PHP Notice:  Undefined variable: chart in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/dashboard.tpl on line 27
+2015-06-08 3:24:20 - PHP Notice:  Undefined variable: activity in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/dashboard.tpl on line 30
+2015-06-08 3:24:20 - PHP Notice:  Undefined variable: recent in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/dashboard.tpl on line 31
+2015-06-08 3:24:29 - PHP Notice:  Undefined variable: alerts in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 45
+2015-06-08 3:24:29 - PHP Notice:  Undefined variable: order_status in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 48
+2015-06-08 3:24:29 - PHP Notice:  Undefined variable: order_status_total in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 48
+2015-06-08 3:24:29 - PHP Notice:  Undefined variable: complete_status in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 49
+2015-06-08 3:24:29 - PHP Notice:  Undefined variable: complete_status_total in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 49
+2015-06-08 3:24:29 - PHP Notice:  Undefined variable: return in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 50
+2015-06-08 3:24:29 - PHP Notice:  Undefined variable: return_total in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 50
+2015-06-08 3:24:29 - PHP Notice:  Undefined variable: product in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 57
+2015-06-08 3:24:29 - PHP Notice:  Undefined variable: product_total in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 57
+2015-06-08 3:24:29 - PHP Notice:  Undefined variable: affiliate_approval in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 61
+2015-06-08 3:24:29 - PHP Notice:  Undefined variable: affiliate_total in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 61
+2015-06-08 3:24:29 - PHP Notice:  Undefined variable: stats in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/column_left.tpl on line 1
+2015-06-08 3:24:29 - PHP Notice:  Undefined variable: order in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/dashboard.tpl on line 20
+2015-06-08 3:24:29 - PHP Notice:  Undefined variable: sale in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/dashboard.tpl on line 21
+2015-06-08 3:24:29 - PHP Notice:  Undefined variable: online in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/dashboard.tpl on line 23
+2015-06-08 3:24:29 - PHP Notice:  Undefined variable: map in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/dashboard.tpl on line 26
+2015-06-08 3:24:29 - PHP Notice:  Undefined variable: chart in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/dashboard.tpl on line 27
+2015-06-08 3:24:29 - PHP Notice:  Undefined variable: activity in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/dashboard.tpl on line 30
+2015-06-08 3:24:29 - PHP Notice:  Undefined variable: recent in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/dashboard.tpl on line 31
+2015-06-08 3:24:48 - PHP Notice:  Undefined variable: alerts in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 45
+2015-06-08 3:24:48 - PHP Notice:  Undefined variable: order_status in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 48
+2015-06-08 3:24:48 - PHP Notice:  Undefined variable: order_status_total in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 48
+2015-06-08 3:24:48 - PHP Notice:  Undefined variable: complete_status in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 49
+2015-06-08 3:24:48 - PHP Notice:  Undefined variable: complete_status_total in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 49
+2015-06-08 3:24:48 - PHP Notice:  Undefined variable: return in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 50
+2015-06-08 3:24:48 - PHP Notice:  Undefined variable: return_total in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 50
+2015-06-08 3:24:48 - PHP Notice:  Undefined variable: product in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 57
+2015-06-08 3:24:48 - PHP Notice:  Undefined variable: product_total in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 57
+2015-06-08 3:24:48 - PHP Notice:  Undefined variable: affiliate_approval in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 61
+2015-06-08 3:24:48 - PHP Notice:  Undefined variable: affiliate_total in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 61
+2015-06-08 3:24:48 - PHP Notice:  Undefined variable: stats in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/column_left.tpl on line 1
+2015-06-08 3:24:48 - PHP Notice:  Undefined variable: order in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/dashboard.tpl on line 20
+2015-06-08 3:24:48 - PHP Notice:  Undefined variable: sale in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/dashboard.tpl on line 21
+2015-06-08 3:24:48 - PHP Notice:  Undefined variable: online in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/dashboard.tpl on line 23
+2015-06-08 3:24:48 - PHP Notice:  Undefined variable: map in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/dashboard.tpl on line 26
+2015-06-08 3:24:48 - PHP Notice:  Undefined variable: chart in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/dashboard.tpl on line 27
+2015-06-08 3:24:48 - PHP Notice:  Undefined variable: activity in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/dashboard.tpl on line 30
+2015-06-08 3:24:48 - PHP Notice:  Undefined variable: recent in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/dashboard.tpl on line 31
+2015-06-08 3:24:55 - PHP Notice:  Undefined variable: alerts in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 45
+2015-06-08 3:24:55 - PHP Notice:  Undefined variable: order_status in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 48
+2015-06-08 3:24:55 - PHP Notice:  Undefined variable: order_status_total in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 48
+2015-06-08 3:24:55 - PHP Notice:  Undefined variable: complete_status in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 49
+2015-06-08 3:24:55 - PHP Notice:  Undefined variable: complete_status_total in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 49
+2015-06-08 3:24:55 - PHP Notice:  Undefined variable: return in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 50
+2015-06-08 3:24:55 - PHP Notice:  Undefined variable: return_total in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 50
+2015-06-08 3:24:55 - PHP Notice:  Undefined variable: product in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 57
+2015-06-08 3:24:55 - PHP Notice:  Undefined variable: product_total in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 57
+2015-06-08 3:24:55 - PHP Notice:  Undefined variable: affiliate_approval in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 61
+2015-06-08 3:24:55 - PHP Notice:  Undefined variable: affiliate_total in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 61
+2015-06-08 3:24:55 - PHP Notice:  Undefined variable: stats in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/column_left.tpl on line 1
+2015-06-08 3:24:55 - PHP Notice:  Undefined variable: order in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/dashboard.tpl on line 20
+2015-06-08 3:24:55 - PHP Notice:  Undefined variable: sale in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/dashboard.tpl on line 21
+2015-06-08 3:24:55 - PHP Notice:  Undefined variable: online in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/dashboard.tpl on line 23
+2015-06-08 3:24:55 - PHP Notice:  Undefined variable: map in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/dashboard.tpl on line 26
+2015-06-08 3:24:55 - PHP Notice:  Undefined variable: chart in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/dashboard.tpl on line 27
+2015-06-08 3:24:55 - PHP Notice:  Undefined variable: activity in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/dashboard.tpl on line 30
+2015-06-08 3:24:55 - PHP Notice:  Undefined variable: recent in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/dashboard.tpl on line 31
+2015-06-08 3:25:20 - PHP Notice:  Undefined variable: alerts in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 45
+2015-06-08 3:25:20 - PHP Notice:  Undefined variable: order_status in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 48
+2015-06-08 3:25:20 - PHP Notice:  Undefined variable: order_status_total in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 48
+2015-06-08 3:25:20 - PHP Notice:  Undefined variable: complete_status in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 49
+2015-06-08 3:25:20 - PHP Notice:  Undefined variable: complete_status_total in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 49
+2015-06-08 3:25:20 - PHP Notice:  Undefined variable: return in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 50
+2015-06-08 3:25:20 - PHP Notice:  Undefined variable: return_total in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 50
+2015-06-08 3:25:20 - PHP Notice:  Undefined variable: product in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 57
+2015-06-08 3:25:20 - PHP Notice:  Undefined variable: product_total in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 57
+2015-06-08 3:25:20 - PHP Notice:  Undefined variable: affiliate_approval in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 61
+2015-06-08 3:25:20 - PHP Notice:  Undefined variable: affiliate_total in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 61
+2015-06-08 3:25:20 - PHP Notice:  Undefined variable: stats in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/column_left.tpl on line 1
+2015-06-08 3:25:20 - PHP Notice:  Undefined variable: order in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/dashboard.tpl on line 20
+2015-06-08 3:25:20 - PHP Notice:  Undefined variable: sale in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/dashboard.tpl on line 21
+2015-06-08 3:25:20 - PHP Notice:  Undefined variable: online in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/dashboard.tpl on line 23
+2015-06-08 3:25:20 - PHP Notice:  Undefined variable: map in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/dashboard.tpl on line 26
+2015-06-08 3:25:20 - PHP Notice:  Undefined variable: chart in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/dashboard.tpl on line 27
+2015-06-08 3:25:20 - PHP Notice:  Undefined variable: activity in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/dashboard.tpl on line 30
+2015-06-08 3:25:20 - PHP Notice:  Undefined variable: recent in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/dashboard.tpl on line 31
+2015-06-08 3:25:48 - PHP Notice:  Undefined variable: alerts in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 45
+2015-06-08 3:25:48 - PHP Notice:  Undefined variable: order_status in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 48
+2015-06-08 3:25:48 - PHP Notice:  Undefined variable: order_status_total in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 48
+2015-06-08 3:25:48 - PHP Notice:  Undefined variable: complete_status in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 49
+2015-06-08 3:25:48 - PHP Notice:  Undefined variable: complete_status_total in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 49
+2015-06-08 3:25:48 - PHP Notice:  Undefined variable: return in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 50
+2015-06-08 3:25:48 - PHP Notice:  Undefined variable: return_total in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 50
+2015-06-08 3:25:48 - PHP Notice:  Undefined variable: product in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 57
+2015-06-08 3:25:48 - PHP Notice:  Undefined variable: product_total in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 57
+2015-06-08 3:25:48 - PHP Notice:  Undefined variable: affiliate_approval in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 61
+2015-06-08 3:25:48 - PHP Notice:  Undefined variable: affiliate_total in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/header.tpl on line 61
+2015-06-08 3:25:48 - PHP Notice:  Undefined variable: stats in /Volumes/Macintosh_HD_2/mamp/local/opencms/admin/view/template/common/column_left.tpl on line 1

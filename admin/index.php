@@ -1,6 +1,6 @@
 <?php
 // Version
-define('VERSION', '2.0.3.1');
+define('VERSION', '1.0.0.1');
 
 // Configuration
 if (is_file('config.php')) {
@@ -126,20 +126,8 @@ $registry->set('language', $language);
 // Document
 $registry->set('document', new Document());
 
-// Currency
-$registry->set('currency', new Currency($registry));
-
-// Weight
-$registry->set('weight', new Weight($registry));
-
-// Length
-$registry->set('length', new Length($registry));
-
 // User
 $registry->set('user', new User($registry));
-
-//OpenBay Pro
-$registry->set('openbay', new Openbay($registry));
 
 // Event
 $event = new Event($registry);
