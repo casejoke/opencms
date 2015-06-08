@@ -20,10 +20,12 @@ version = require('./package.json').version
 name    = require('./package.json').name
 
 lessDir = 'src/less'
-cssTarget = 'public/css'
-imagesTarget = 'public/css/img'
+cssTarget = '../admin/view/public/css'
+imagesTarget = '../admin/view/public/css/img'
 
-jsTarget = 'public/js'
+jsTarget = '../admin/view/public/js'
+
+fontsTarget = '../admin/view/public/fonts'
 ###
 gulp.task 'bower_build',->
   gulp.src lib.ext('js').files
@@ -37,35 +39,28 @@ gulp.task 'js', ->
     'src/js/_fix.js',
     'bower_components/jquery/dist/jquery.js',
     'bower_components/bootstrap/js/transition.js',
-    #'bower_components/bootstrap/js/alert.js',
-    #'bower_components/bootstrap/js/button.js',
-    #'bower_components/bootstrap/js/carousel.js',
+    'bower_components/bootstrap/js/alert.js',
+    'bower_components/bootstrap/js/button.js',
+    'bower_components/bootstrap/js/carousel.js',
     'bower_components/bootstrap/js/collapse.js',
     'bower_components/bootstrap/js/dropdown.js',
     'bower_components/bootstrap/js/modal.js',
-    #'bower_components/bootstrap/js/tooltip.js',
-    #'bower_components/bootstrap/js/popover.js',
+    'bower_components/bootstrap/js/tooltip.js',
+    'bower_components/bootstrap/js/popover.js',
     'bower_components/bootstrap/js/scrollspy.js',
-    #'bower_components/bootstrap/js/tab.js',
-    #'bower_components/bootstrap/js/affix.js',
-    'bower_components/OwlCarousel/owl-carousel/owl.carousel.js',
+    'bower_components/bootstrap/js/tab.js',
+    'bower_components/bootstrap/js/affix.js',
+    #'bower_components/OwlCarousel/owl-carousel/owl.carousel.js',
     #'bower_components/magnific-popup/dist/jquery.magnific-popup.js',
     #'bower_components/shufflejs/dist/jquery.shufflejs.js',
-    'bower_components/wowjs/dist/wow.js',
+    #'bower_components/wowjs/dist/wow.js',
     #'bower_components/isotope/dist/isotope.pkgd.js',
     #'bower_components/imagesloaded/imagesloaded.js',
     #'src/js/jquery.ajax-progress.js',
     #'src/js/jquery.fitvids.js',
-    # 'src/js/jquery.parallax-1.1.3.js',
+    #'src/js/jquery.parallax-1.1.3.js',
     #'src/js/jquery.sticky.js',
-    'src/js/_contest.js',
-    'src/js/_action.js',
-    'src/js/_visual.js',
-    'src/js/_social.js',
-   # 'src/js/_map.js',
     #'src/js/_contact.js',
-    'src/js/_main.js',
-
     #'src/js/main-init.js'
     ]
     .pipe concat name+'.js'
@@ -80,13 +75,13 @@ gulp.task 'coffee', ->
   gulp.src 'src/coffee/*.coffee'
   .pipe do coffee
   #.pipe do uglify
-  .pipe gulp.dest 'public/js'
+  .pipe gulp.dest jsTarget
   .pipe notify 'Coffee compiled'
 
 
 gulp.task 'copy_fontawesome', ->
    gulp.src 'bower_components/fontawesome/fonts/*.*'
-   .pipe gulp.dest 'public/fonts'
+   .pipe gulp.dest fontsTarget
    .pipe notify 'Copy fontawesome compiled'
 
 #gulp.task 'copy_opensans', ->

@@ -1,8 +1,12 @@
 {
-  "name": "uchebnik",
+  "name": "opencms",
   "version": "0.1.0",
-  "description": "htmlhouse uchebnik",
+  "description": "htmlhouse opencms",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/casejoke/gulp-template.git"
+  }
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -30,7 +34,7 @@
     "gulp-spritesmith": "0.0.2",
     "gulp-uglify": "^1.1.0",
     "gulp-util": "^3.0.2",
-    "gulp.spritesmith": "^3.6.1",
+    "gulp.spritesmith": "^3.8.2",
     "main-bower-files": "^2.5.0"
   },
   "dependencies": {
