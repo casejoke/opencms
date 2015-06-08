@@ -27,6 +27,7 @@
     "shufflejs": "~3.0.2",
     "open-sans-fontface": "~1.2.1",
     "isotope": "~2.2.0",
-    "svg-loaders": "*"
+    "svg-loaders": "*",
+    "summernote": "~0.6.7"
   }
 }

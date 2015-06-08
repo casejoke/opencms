@@ -75,10 +75,10 @@ gulp.task 'copy_fontawesome', ->
    .pipe gulp.dest fontsTarget
    .pipe notify 'Copy fontawesome compiled'
 
-#gulp.task 'copy_opensans', ->
-#  gulp.src 'bower_components/open-sans-fontface/fonts/**'
-#  .pipe gulp.dest 'public/fonts/open-sans/'
-#  .pipe notify 'Copy opensans compiled'
+gulp.task 'copy_opensans', ->
+  gulp.src 'bower_components/open-sans-fontface/fonts/**'
+  .pipe gulp.dest fontsTarget+'/open-sans/'
+  .pipe notify 'Copy opensans compiled'
 
 gulp.task 'spritesmith', ->
   spriteData = gulp.src 'src/images/*.png', read: false
@@ -122,11 +122,3 @@ gulp.task 'default',[
   'js'
   'copy_fontawesome'
   ]
-
-
-
-
-
-
-
-
