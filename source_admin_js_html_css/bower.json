@@ -28,6 +28,7 @@
     "open-sans-fontface": "~1.2.1",
     "isotope": "~2.2.0",
     "svg-loaders": "*",
-    "summernote": "~0.6.7"
+    "summernote": "~0.6.7",
+    "moment": "~2.10.3"
   }
 }
