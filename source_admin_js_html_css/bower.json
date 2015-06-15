@@ -29,6 +29,7 @@
     "isotope": "~2.2.0",
     "svg-loaders": "*",
     "summernote": "~0.6.7",
-    "moment": "~2.10.3"
+    "moment": "~2.10.3",
+    "eonasdan-bootstrap-datetimepicker": "~4.14.30"
   }
 }

@@ -16,13 +16,11 @@ spritesmith  = require 'gulp.spritesmith'
 version = require('./package.json').version
 name    = require('./package.json').name
 
-lessDir = 'src/less'
-cssTarget = '../admin/view/public/css'
-imagesTarget = '../admin/view/public/css/img'
-
-jsTarget = '../admin/view/public/js'
-
-fontsTarget = '../admin/view/public/fonts'
+lessDir       = 'src/less'
+cssTarget     = '../admin/assets/css'
+imagesTarget  = '../admin/assets/css/img'
+jsTarget      = '../admin/assets/js'
+fontsTarget   = '../admin/assets/fonts'
 
 # Copy vendor JS files, concatenate them and uglify them
 gulp.task 'js', ->
@@ -41,6 +39,10 @@ gulp.task 'js', ->
     'bower_components/bootstrap/js/scrollspy.js',
     'bower_components/bootstrap/js/tab.js',
     'bower_components/bootstrap/js/affix.js',
+    'bower_components/summernote/dist/js/summernote.js',
+    'bower_components/moment/moment.js',
+    #'bower_components/moment/locale/ru.js',
+    'bower_components/eonasdan-bootstrap-datetimepicker/build/js/bootstrap-datetimepicker.js',
     #'bower_components/OwlCarousel/owl-carousel/owl.carousel.js',
     #'bower_components/magnific-popup/dist/jquery.magnific-popup.js',
     #'bower_components/shufflejs/dist/jquery.shufflejs.js',
@@ -51,8 +53,8 @@ gulp.task 'js', ->
     #'src/js/jquery.fitvids.js',
     #'src/js/jquery.parallax-1.1.3.js',
     #'src/js/jquery.sticky.js',
-    #'src/js/_contact.js',
-    #'src/js/main-init.js'
+    'src/js/_common.js',
+    'src/js/main-init.js'
     ]
     .pipe concat name+'.js'
     .pipe gulp.dest jsTarget
@@ -62,12 +64,12 @@ gulp.task 'js', ->
     .pipe gulp.dest jsTarget
 
 
-gulp.task 'coffee', ->
-  gulp.src 'src/coffee/*.coffee'
-  .pipe do coffee
-  #.pipe do uglify
-  .pipe gulp.dest jsTarget
-  .pipe notify 'Coffee compiled'
+#gulp.task 'coffee', ->
+#  gulp.src 'src/coffee/*.coffee'
+#  .pipe do coffee
+#  #.pipe do uglify
+#  .pipe gulp.dest jsTarget
+#  .pipe notify 'Coffee compiled'
 
 
 gulp.task 'copy_fontawesome', ->
@@ -110,15 +112,16 @@ gulp.task 'css', ->
     .pipe notify 'LESS compiled'
 
 gulp.task 'watch',->
-  gulp.watch 'src/coffee/*.coffee',['coffee']
+  #gulp.watch 'src/coffee/*.coffee',['coffee']
   gulp.watch 'src/less/*.less',['css']
   gulp.watch 'src/js/*.js',['js']
   gulp.watch 'src/images/*.png',['spritesmith']
 
 gulp.task 'default',[
-  'coffee',
+  #'coffee',
   'spritesmith',
   'css',
   'js'
-  'copy_fontawesome'
+  'copy_fontawesome',
+  'copy_opensans'
   ]

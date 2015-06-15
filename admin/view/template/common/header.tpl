@@ -11,34 +11,21 @@
 <meta name="keywords" content="<?php echo $keywords; ?>" />
 <?php } ?>
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0" />
-
-
-<script type="text/javascript" src="view/javascript/jquery/jquery-2.1.1.min.js"></script>
-<script type="text/javascript" src="view/javascript/bootstrap/js/bootstrap.min.js"></script>
-
-<link href="view/javascript/bootstrap/opencart/opencart.css" type="text/css" rel="stylesheet" />
-<link href="view/javascript/font-awesome/css/font-awesome.min.css" type="text/css" rel="stylesheet" />
-<link href="view/javascript/summernote/summernote.css" rel="stylesheet" />
-
-<script type="text/javascript" src="view/javascript/summernote/summernote.js"></script>
-
-<script src="view/javascript/jquery/datetimepicker/moment.js" type="text/javascript"></script>
-<script src="view/javascript/jquery/datetimepicker/bootstrap-datetimepicker.min.js" type="text/javascript"></script>
-<link href="view/javascript/jquery/datetimepicker/bootstrap-datetimepicker.min.css" type="text/css" rel="stylesheet" media="screen" />
-
-<link type="text/css" href="view/stylesheet/stylesheet.css" rel="stylesheet" media="screen" />
-
+<script type="text/javascript" src="assets/js/opencms_adm.min.js"></script>
+<?php foreach ($scripts as $script) { ?>
+  <script type="text/javascript" src="<?php echo $script; ?>"></script>
+<?php } ?>
+<link href="assets/css/opencms_adm.min.css" type="text/css" rel="stylesheet" media="screen" />
 <?php foreach ($styles as $style) { ?>
   <link type="text/css" href="<?php echo $style['href']; ?>" rel="<?php echo $style['rel']; ?>" media="<?php echo $style['media']; ?>" />
 <?php } ?>
+
 
 <?php foreach ($links as $link) { ?>
   <link href="<?php echo $link['href']; ?>" rel="<?php echo $link['rel']; ?>" />
 <?php } ?>
 
-<?php foreach ($scripts as $script) { ?>
-  <script type="text/javascript" src="<?php echo $script; ?>"></script>
-<?php } ?>
+
 
 </head>
 <body>

@@ -1,12 +1,12 @@
 {
-  "name": "opencms",
+  "name": "opencms_adm",
   "version": "0.1.0",
   "description": "htmlhouse opencms",
   "main": "index.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/casejoke/gulp-template.git"
-  }
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
