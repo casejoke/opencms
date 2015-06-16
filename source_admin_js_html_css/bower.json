@@ -30,6 +30,12 @@
     "svg-loaders": "*",
     "summernote": "~0.6.7",
     "moment": "~2.10.3",
-    "eonasdan-bootstrap-datetimepicker": "~4.14.30"
+    "eonasdan-bootstrap-datetimepicker": "~4.14.30",
+    "bootstrap-sweetalert": "~0.4.3",
+    "bootstrap-material-design": "~0.3.0",
+    "jquery.nicescroll": "~3.6.0",
+    "waves": "~0.7.2",
+    "fullcalendar": "~2.3.2",
+    "material-design-iconic-font": "~1.1.1"
   }
 }

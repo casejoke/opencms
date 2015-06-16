@@ -43,6 +43,8 @@ gulp.task 'js', ->
     'bower_components/moment/moment.js',
     #'bower_components/moment/locale/ru.js',
     'bower_components/eonasdan-bootstrap-datetimepicker/build/js/bootstrap-datetimepicker.js',
+    'bower_components/jquery.nicescroll/jquery.nicescroll.js',
+    'bower_components/waves/src/js/waves.js',
     #'bower_components/OwlCarousel/owl-carousel/owl.carousel.js',
     #'bower_components/magnific-popup/dist/jquery.magnific-popup.js',
     #'bower_components/shufflejs/dist/jquery.shufflejs.js',
@@ -71,6 +73,10 @@ gulp.task 'js', ->
 #  .pipe gulp.dest jsTarget
 #  .pipe notify 'Coffee compiled'
 
+gulp.task 'copy_material-design-iconic-font', ->
+   gulp.src 'bower_components/material-design-iconic-font/fonts/*.*'
+   .pipe gulp.dest fontsTarget
+   .pipe notify 'Copy copy_material-design-iconic-font compiled'
 
 gulp.task 'copy_fontawesome', ->
    gulp.src 'bower_components/fontawesome/fonts/*.*'
@@ -123,5 +129,6 @@ gulp.task 'default',[
   'css',
   'js'
   'copy_fontawesome',
-  'copy_opensans'
+  'copy_opensans',
+  'copy_material-design-iconic-font'
   ]
